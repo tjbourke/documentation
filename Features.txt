@@ -1,0 +1,29 @@
+In Scope
+- Registration
+- Photo Uploading
+- Photo Viewing
+	- Formats for viewing?
+
+Out Scope
+
+Future Scope
+
+Undecided
+- Import contacts from:
+	- Facebook	
+	- Microsoft?
+	- Twitter?
+	- Google Plus?
+	- etc?
+- Captions?
+- Comments?
+- Retroactive photo filling in
+	- Can user's upload photos from past days?
+	- The real question is probably how far back can they backfill?
+- Upload from "Gallery"
+	- Android has "share" button which should show our product, iPhone probably has something similar
+- Photo Taking Application
+	- Do we need to integrate a photo taking option in the app?
+- Photo Filters
+	- Like instagram
+- Photo Cropping
